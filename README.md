@@ -5,7 +5,14 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. Name: Erika
+Pronouns: she/her/hers
+Current favorite video game: Yoshi's Island (SNES)
+Favorite genre: Platformer, Indie, Puzzle
+Game with most hours: Binding of Isaac
+Reason for taking the class: I am a master student and currently doing research in assistive devices and rehbailitation. I would like to conduct research in using games in the rehabilitation setting.
+Game development experience: I know five coding languages (MATLab, Python, LabView, R Studio, C++) and have programmed a rock, paper, scissor text-based game (Python)
+Games I would like to build: rhythm
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
@@ -13,10 +20,13 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
-    - [ ] Other (please specify)
+    - [X] Other: Mechanical Engineering
 
 3. What are you hoping to get out of this class?
+To learn how to develop a video game
+
 4. What, if anything, are you nervous about for this class?
+Nope
 
 ## Prior Experience
 
@@ -24,11 +34,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. Programming (any languages/ frameworks) MATLab, Python, LabView, R Studio, C++
 
-2. Game development (any engine)
+2. Game development (any engine) N/A
 
-3. Unity
+3. Unity N/A
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +49,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. Game design document N/A
 
-2. Scope management
+2. Scope management N/A
 
-3. Iteration
+3. Iteration: typically since in a for loop where the loop has a set number of times to go through the portion of the code and with each completion, it adds an iteration
 
-4. Object-Oriented programming
+4. Object-Oriented programming N/A
 
-5. Model-View-Controller architecture
+5. Model-View-Controller architecture N/A
 
 ## Complete!
 
